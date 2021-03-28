@@ -1,0 +1,27 @@
+{  
+   "personas":[  
+      {  
+         "ci":1,
+         "nombre":"Julio Pérez",
+         "casado":false,
+         "hijos":[  
+
+         ]
+      },
+      {  
+         "ci":7654321,
+         "nombre":"Juan Gómez",
+         "casado":false,
+         "hijos":[  
+            {  
+               "nombre":"Jorge",
+               "edad":null,
+            },
+            {  
+               "nombre":"Valeria",
+               "edad":16
+            }
+         ]
+      }
+   ]
+}
