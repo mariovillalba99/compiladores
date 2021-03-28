@@ -9,7 +9,7 @@ _Recibe un archivo fuente txt, debe realizar un análisis léxico reconociendo t
 
 ### Pre-requisitos 📋
 
-_Tener instalado Python3_
+_Tener instalado Python 3_
 
 ## Para ejecutar  ⚙️
 
